@@ -39,6 +39,7 @@ main {
 .user-img:hover {
   transform: scale(0.89);
   cursor: pointer;
+  box-shadow: none;
 }
 
 .content h2 {
